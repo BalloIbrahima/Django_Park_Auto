@@ -46,9 +46,9 @@ INSTALLED_APPS = [
     'conducteur',
     'emplacement_parking',
     'affectation_vehicule',
-    'ordre_mission'
-
-    
+    'ordre_mission',
+    'agent'
+   
 ]
 
 MIDDLEWARE = [
