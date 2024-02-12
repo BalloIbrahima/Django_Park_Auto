@@ -39,8 +39,16 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'mission',
     'departement',
-    'division'
+    'division',
+    'vehicule',
+    'reparation',
 
+    'conducteur',
+    'emplacement_parking',
+    'affectation_vehicule',
+    'ordre_mission'
+
+    
 ]
 
 MIDDLEWARE = [
