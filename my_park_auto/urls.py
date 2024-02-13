@@ -25,7 +25,7 @@ urlpatterns = [
     # path('',include('mission.urls')),
     path('',include('affectation_vehicule.urls')),
     path('',include('agent.urls')),
-    # path('',include('conducteur.urls')),
+    path('',include('conducteur.urls')),
     # path('',include('departement.urls')),
     # path('',include('emplacement_parking.urls')),
     # path('',include('ordre_mission.urls')),
