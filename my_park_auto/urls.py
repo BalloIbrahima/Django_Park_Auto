@@ -37,6 +37,5 @@ urlpatterns = [
     # path('',include('division.urls')),
     # path('',include('division.urls')),
     # path('',include('division.urls')),
-    # path('',include('division.urls')),
-
+    # path('',include('division.urls'))
 ]
